@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, Node.js, Cybersecurity tools**
 - 🧠 Strong skills in **Python, PHP, .NET, and Linux**
-- 📄 Check out my CV [here](https://github.com/MedoRashadfci/MedoRashadfci/blob/main/Mahmoud_rashad_cv_cyber_2025.pdf)
+- 📄 Check out my CV [here](https://github.com/MedoRashadfci/MedoRashadfci/blob/main/cv_cyber_2025_update.pdf)
 - 📫 How to reach me: **www1aborashad@gmail.com**
 
 ---
